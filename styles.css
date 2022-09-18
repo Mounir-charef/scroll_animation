@@ -13,7 +13,6 @@ section {
     place-items: center;
     align-items: center;
     min-height: 110vh;
-    max-width: 90%;
 }
 
 .hidden {
